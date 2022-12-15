@@ -6,5 +6,5 @@ Finally, the function checks if the size of the current iteration of the flower 
 
 You can adjust the size and number of points of the flower of life by modifying the corresponding variables at the top of the code. You can also change the colors used for the flower of life by modifying the color1 and color2 variables in the setup function.
 
-
+![alt text](https://raw.githubusercontent.com/guillaumelauzier/dot-sizes-p5js/main/Screenshot%202022-12-15%20at%2003.44.52.png)
 
